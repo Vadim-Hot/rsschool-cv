@@ -16,7 +16,7 @@ I'm a web developer from Belarus. In my spare time I enjoy DIY, gaming and build
 I'm on [LinkedIn](https://www.linkedin.com/in/vadim-hotenko-a0785718b) and [Instagram](https://www.instagram.com/hotenkovadim/)
 
 ## Skills
-* HTML5
+* HTML
 * CSS/SASS
 * JS
 * Bootstrap
