@@ -11,7 +11,7 @@
 
 ## About me
 
-I'm a web developer from Belarus. In my spare time I enjoy DIY, gaming and building my own projects. My preferred tools are JS, GSAP and Figma.
+I'm a beginner web developer from Belarus. In my spare time I enjoy DIY, gaming and building my own projects. My preferred tools are JS, GSAP and Figma.
 
 I'm on [LinkedIn](https://www.linkedin.com/in/vadim-hotenko-a0785718b) and [Instagram](https://www.instagram.com/hotenkovadim/)
 
