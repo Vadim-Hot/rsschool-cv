@@ -1,1 +1,1 @@
-https://Vadim-Hot.github.io/rsschool-cv/cv
+[rsschool-cv](https://github.com/Vadim-Hot)
